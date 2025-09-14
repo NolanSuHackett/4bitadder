@@ -1,6 +1,5 @@
 # CI’d SystemVerilog Adder (Icarus + Perl + Jenkins)
 
-Minimal, resume-ready verification flow:
 - **DUT**: `adder4.sv` (clocked 4-bit adder → 5-bit sum)
 - **TB**: `tb_adder4.sv` (self-checking: directed + random vectors, VCD dump)
 - **Sim**: Icarus Verilog (`iverilog` / `vvp`)
