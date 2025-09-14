@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tb_adder4" tests="24" failures="0">
+  <testcase name="a=0,b=0"/>
+  <testcase name="a=3,b=5"/>
+  <testcase name="a=15,b=1"/>
+  <testcase name="a=8,b=7"/>
+  <testcase name="a=4,b=1"/>
+  <testcase name="a=9,b=3"/>
+  <testcase name="a=13,b=13"/>
+  <testcase name="a=5,b=2"/>
+  <testcase name="a=1,b=13"/>
+  <testcase name="a=6,b=13"/>
+  <testcase name="a=13,b=12"/>
+  <testcase name="a=9,b=6"/>
+  <testcase name="a=5,b=10"/>
+  <testcase name="a=5,b=7"/>
+  <testcase name="a=2,b=15"/>
+  <testcase name="a=2,b=14"/>
+  <testcase name="a=8,b=5"/>
+  <testcase name="a=12,b=13"/>
+  <testcase name="a=13,b=5"/>
+  <testcase name="a=3,b=10"/>
+  <testcase name="a=0,b=0"/>
+  <testcase name="a=10,b=13"/>
+  <testcase name="a=6,b=3"/>
+  <testcase name="a=13,b=3"/>
+</testsuite>
